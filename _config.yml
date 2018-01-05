@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Laura R. Crothers
 tagline:          'Full-stack science communicator'
-description:      'A full-stack science communicator living in Davis, CA.'
+description:      'Full-stack science communicator, living in Davis, CA.'
 url:              lauracrothers.github.io/index.html
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -14,8 +14,8 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Laura Crothers'
+  url:            lauracrothers.github.io/index.html
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -27,11 +27,8 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:            3.5.3
 sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
-github:
-  repo:             https://github.com/fongandrew/hydeout

@@ -1,15 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /about/
+sidebar_link: true
 ---
 
-Some information about you!
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it
+  for your own use upon downloading. Carry on!
+</p>
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+To make pages show up in the sidebar, add `sidebar_link: true` to the front
+matter.

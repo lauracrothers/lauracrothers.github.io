@@ -1,10 +1,5 @@
 ---
 layout: post
-title: You're up and running!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I am a full stack science communicator living in Davis, California. I thrive on the challenge of taking a seemingly dull scientific topic or a raw dataset and teasing out the story that lies within. I have a PhD in Integrative Biology from the University of Texas at Austin, one of the top-ranked graduate programs in the country. I have worked in the field of biology for over 8 years, researching topics ranging from the neurobiological underpinnings of social behaviors to the evolution of diverse color patterns. I have varied and extensive experience in science communication, including research, data analysis, grant writing, academic writing, exhibit design, and writing for magazines and blogs.

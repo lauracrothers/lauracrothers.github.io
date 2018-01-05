@@ -5,8 +5,8 @@ highlighter:      rouge
 # Setup
 title:            Laura R. Crothers
 tagline:          'Full-stack science communicator'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io/hydeout
+description:      'A full-stack science communicator living in Davis, CA.'
+url:              lauracrothers.github.io/index.html
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep

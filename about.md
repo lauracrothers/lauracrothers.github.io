@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-<img src="assets/images/Website_headshot.png">I'm a scientific communications specialist with over 10 years of experience in research and over 4 years of experience in STEM education. I specialize in scientific communication and evaluation services, including:<br><br>
+<img src="assets/images/Website_headshot.png" ALIGN=”left” />I'm a scientific communications specialist with over 10 years of experience in research and over 4 years of experience in STEM education. I specialize in scientific communication and evaluation services, including:<br><br>
 
 • grant proposal coordination and writing<br>
 • writing & editing of scientific manuscripts and reports<br>

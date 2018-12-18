@@ -28,7 +28,7 @@ var myChart = new Chart(ctx, {
       { 
         data: europe,
         label: "Europe",
-        borderColor: "#1A3E68",
+        borderColor: "#9CAF88",
         fill: false
       },
       { 
@@ -41,7 +41,7 @@ var myChart = new Chart(ctx, {
         data: northAmerica,
         label: "North America",
         borderColor: "#C26E60",
-        fill: false
+        fill: true
       }
     ]
   }

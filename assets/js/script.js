@@ -16,31 +16,31 @@ var myChart = new Chart(ctx, {
       { 
         data: africa,
         label: "Africa",
-        borderColor: "#3e95cd",
+        borderColor: "#333333",
         fill: false
       },
       { 
         data: asia,
         label: "Asia",
-        borderColor: "#8e5ea2",
+        borderColor: "#DAAA00",
         fill: false
       },
       { 
         data: europe,
         label: "Europe",
-        borderColor: "#3cba9f",
+        borderColor: "#1A3E68",
         fill: false
       },
       { 
         data: latinAmerica,
         label: "Latin America",
-        borderColor: "#e8c3b9",
+        borderColor: "#008EAA",
         fill: false
       },
       { 
         data: northAmerica,
         label: "North America",
-        borderColor: "#c45850",
+        borderColor: "#C26E60",
         fill: false
       }
     ]

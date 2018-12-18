@@ -13,7 +13,6 @@ var myChart = new Chart(ctx, {
   data: {
     labels: years,
     datasets: [
-   backgroundColor: : "#CCCCCC",
       { 
         data: africa,
         label: "Africa",

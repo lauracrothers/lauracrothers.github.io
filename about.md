@@ -16,4 +16,3 @@ sidebar_link: true
 
 When I'm not busy filling my brain with new research or writing about food and agriculture, I'll be found hiking the coasts and mountains of Northern California, trying not to get too bruised and bloodied while I teach myself mountain biking, and fiddling with new recipes in the kitchen.
 </p><br>
-<p align="center"></p>

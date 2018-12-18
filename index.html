@@ -6,14 +6,6 @@ title: Home
 <html>
   <head>
     <script type="text/javascript”, script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js">
-</script>
-    <style type="text/css">
-      canvas { border: 1px solid black; }
-    </style>
-  </head>
-  <body>
-<canvas id="myChart" width="400" height="400"></canvas>
-<script>
 var ctx = document.getElementById("myChart");
 var myChart = new Chart(ctx, {
     type: 'bar',
@@ -52,6 +44,13 @@ var myChart = new Chart(ctx, {
     }
 });
 </script>
+</script>
+    <style type="text/css">
+      canvas { border: 1px solid black; }
+    </style>
+  </head>
+  <body>
+<canvas id="myChart" width="400" height="400"></canvas>
 <p><img src="assets/images/Icons.svg"/></p>
   </body>
 </html>

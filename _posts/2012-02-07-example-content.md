@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: index
 ---
 
-<p>
+<p class="message">
 I'm a scientific communications specialist with over 10 years of experience in research and over 4 years of experience in STEM education. I specialize in scientific communication and evaluation services, including:<br><br>
 
 • grant proposal coordination and writing<br>

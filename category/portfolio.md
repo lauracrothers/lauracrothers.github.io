@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Portfolio
+sidebar_link: false
 --- 
 <html>
   <head>

@@ -1,9 +1,7 @@
 ---
 layout: category
 title: Portfolio
----
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js">
- 
+--- 
 <p>Hello?</p>
 
 <iframe src="https://public.tableau.com/views/CarbonFeeandDividend-CitizensClimateLobbyViz/CarbonFeeandDividendEffects?:showVizHome=no&:embed=true"
@@ -11,7 +9,7 @@ title: Portfolio
 
 
 <canvas id="myChart" width="400" height="400"></canvas>
-<script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js">
 var ctx = document.getElementById("myChart").getContext('2d');
 var myChart = new Chart(ctx, {
     type: 'bar',

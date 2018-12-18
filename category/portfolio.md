@@ -7,10 +7,8 @@ title: Portfolio
 <iframe src="https://public.tableau.com/views/CarbonFeeandDividend-CitizensClimateLobbyViz/CarbonFeeandDividendEffects?:showVizHome=no&:embed=true"
  width="650" height="1687"></iframe>
 
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
-
 <canvas id="myChart">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
 var ctx = document.getElementById('myChart').getContext('2d');
 var chart = new Chart(ctx, {
     // The type of chart we want to create

@@ -1,6 +1,7 @@
 ---
 layout: post
 ---
+<p><img src="assets/images/Icons.svg"/></p>
 <p class="message">
 I'm a scientific communications specialist with over 10 years of experience in research and over 4 years of experience in STEM education. I specialize in scientific communication and evaluation services, including:<br><br>
 
@@ -12,5 +13,5 @@ I'm a scientific communications specialist with over 10 years of experience in r
 • informational graphics<br><br>
 
 When I'm not busy filling my brain with new research or writing about food and agriculture, I'll be found hiking the coasts and mountains of Northern California, trying not to get too bruised and bloodied while I teach myself mountain biking, and fiddling with new recipes in the kitchen.<br><br>
-<img src="assets/images/Website_headshot.png" class="center">
-</p><br>
+<img src="assets/images/Website_headshot.png" class="center"></p>
+<br>

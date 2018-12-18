@@ -13,6 +13,7 @@ var myChart = new Chart(ctx, {
   data: {
     labels: years,
     datasets: [
+   backgroundColor: : "#CCCCCC",
       { 
         data: africa,
         label: "Africa",
@@ -41,7 +42,7 @@ var myChart = new Chart(ctx, {
         data: northAmerica,
         label: "North America",
         borderColor: "#C26E60",
-        fill: true
+        fill: false
       }
     ]
   }

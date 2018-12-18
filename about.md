@@ -17,10 +17,3 @@ I'm a scientific communications specialist with over 10 years of experience in r
 When I'm not busy filling my brain with new research or writing about food and agriculture, I'll be found hiking the coasts and mountains of Northern California, trying not to get too bruised and bloodied while I teach myself mountain biking, and fiddling with new recipes in the kitchen.<br><br>
 <img src="assets/images/Website_headshot.png" class="center">
 </p><br>
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}

@@ -5,5 +5,14 @@ sidebar_link: true
 ---
 
 <p class="message">
-I am a full stack science communicator living in Davis, California. I thrive on the challenge of taking a seemingly dull scientific topic or a raw dataset and teasing out the story that lies within. I have a PhD in Integrative Biology from the University of Texas at Austin, one of the top-ranked graduate programs in the country. I have worked in the field of biology for over 8 years, researching topics ranging from the neurobiological underpinnings of social behaviors to the evolution of diverse color patterns. I have varied and extensive experience in science communication, including research, data analysis, grant writing, academic writing, exhibit design, and writing for magazines and blogs.
+I'm a scientific communications specialist with over 10 years of experience in research and over 4 years of experience in STEM education. I specialize in scientific communication and evaluation services, including:
+
+• grant proposal coordination and writing
+• writing & editing of scientific manuscripts and reports
+• data analysis and visualization
+• content development of educational materials
+• science writing for magazines & blogs
+• informational graphics
+
+When I'm not busy filling my brain with new research or writing about food and agriculture, I'll be found hiking the coasts and mountains of Northern California, trying not to get too bruised and bloodied while I teach myself mountain biking, and fiddling with new recipes in the kitchen.
 </p>

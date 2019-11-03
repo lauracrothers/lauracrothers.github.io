@@ -4,12 +4,7 @@ title: Vita
 sidebar_link: true
 ---
 
-
-<p class="message">
-Testing, testing.
-</p>
-
-## EDUCATION<br>
+## EDUCATION<br><br>
 <strong>UNIVERSITY OF TEXAS</strong><br>
 PHD, INTEGRATIVE BIOLOGY<br>
 May 2014 | Austin, TX<br>
@@ -22,6 +17,11 @@ Aug 2005 | Santa Cruz, CA<br>
 <em>Biology Highest Honors; Psychology & Stevenson College Honors; Merit Scholarship (2001-2005)</em>
 
 
+
+
+<p class="message">
+Testing, testing.
+</p>
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 

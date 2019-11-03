@@ -5,15 +5,13 @@ sidebar_link: true
 ---
 
 <html>
+  
+
 
 <details>
-  <summary>Click to expand!</summary>
-  
+  <summary><strong>WRITING</strong></summary> 
   ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+  <p> Well well well, here we are, aren't we?</p>
 </details>
 
 <center>

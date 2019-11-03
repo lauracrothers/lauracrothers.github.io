@@ -25,7 +25,7 @@ Jan 2016 – current | Davis, CA<br>
   private sponsors focused on food, agriculture, and environmental issues.</li>
 <li>Plan, implement, and evaluate communications campaigns on topics such as
 climate-smart agriculture. Write articles, blog posts, and fact sheets, and
-  develop infographics and websites.</li>
+  develop infographics and websites.</li></ul>
 <br>
 MACMILLAN LEARNING (SAPLING LEARNING)<br>
   <em>BIOLOGY CONTENT DEVELOPER</em><br>
@@ -34,7 +34,7 @@ May 2014 – Jun 2015 | Austin, TX<br>
 <li>Technical writer and editor of educational materials for college-level biology.
   Primary content developer of educational digital labs.</li>
 <li>Worked on cross-functional teams with scientists, educators, artists, and
-  marketers to plan and implement project goals, often under tight deadlines.</li>
+  marketers to plan and implement project goals, often under tight deadlines.</li></ul>
   <br>
 TEXAS MEMORIAL MUSEUM<br>
   <em>EXHIBIT DEVELOPER</em><br>
@@ -43,4 +43,12 @@ Aug 2011 – Sept 2013 | Austin, TX<br>
 <li>Developed budget, designed layout, created graphics, researched content, and
   wrote copy for a science exhibit. Created additional virtual exhibit.</li>
 <li>Represented museum at outreach events. Liaised with museums, public,
-  educators, and researchers to develop and evaluate exhibit and obtain funds.</li>
+  educators, and researchers to develop and evaluate exhibit and obtain funds.</li></ul>
+    <br>
+UNIVERSITY OF CALIFORNIA, SAN FRANCISCO<br>
+  <em>LAB MANAGER & RESEARCH ASSOCIATE</em><br>
+Nov 2005 – Aug 2008 | San Francisco, CA<br>
+  <ul>
+<li>Managed a lab of 10+ people, trained students and scientists, wrote protocols,
+and planned, performed, and analyzed research.</li>
+<li>Maintained relationships with vendors, regulatory offices, and administrators.</li></ul>

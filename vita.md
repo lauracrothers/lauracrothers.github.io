@@ -44,8 +44,8 @@ Aug 2011 – Sept 2013 | Austin, TX<br>
   wrote copy for a science exhibit. Created additional virtual exhibit.</li>
 <li>Represented museum at outreach events. Liaised with museums, public,
   educators, and researchers to develop and evaluate exhibit and obtain funds.</li></ul>
-    <br>
-UNIVERSITY OF CALIFORNIA SAN FRANCISCO<br>
+  <br>
+UNIVERSITY OF CALIFORNIA, SAN FRANCISCO<br>
   <em>LAB MANAGER & RESEARCH ASSOCIATE</em><br>
 Nov 2005 – Aug 2008 | San Francisco, CA<br>
   <ul>

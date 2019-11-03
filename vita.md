@@ -4,6 +4,10 @@ title: Vita
 sidebar_link: true
 ---
 
+<p class="message">
+<a href="assets/LauraCrothers_CV.pdf”>A pdf of my CV can be found here.
+</a></p>
+
 ## EDUCATION<br>
 <strong>UNIVERSITY OF TEXAS</strong><br>
 PHD, INTEGRATIVE BIOLOGY<br>

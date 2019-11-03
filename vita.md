@@ -9,12 +9,18 @@ sidebar_link: true
 Testing, testing.
 </p>
 
-## EDUCATION
-<strong>UNIVERSITY OF TEXAS</strong>
-PHD, INTEGRATIVE BIOLOGY
-May 2014 | Austin, TX
-Recruitment & Continuing Fellowships
-Dean’s Excellence Award
+## EDUCATION<br>
+<strong>UNIVERSITY OF TEXAS</strong><br>
+PHD, INTEGRATIVE BIOLOGY<br>
+May 2014 | Austin, TX<br>
+<em> Recruitment & Continuing Fellowships; Dean’s Excellence Award</em>
+
+<strong>UNIVERSITY OF CALIFORNIA</strong><br>
+BS, ECOLOGY & EVOLUTION<br>
+BA, PSYCHOLOGY<br>
+Aug 2005 | Santa Cruz, CA<br>
+<em>Biology Highest Honors; Psychology & Stevenson College Honors; Merit Scholarship (2001-2005)</em>
+
 
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

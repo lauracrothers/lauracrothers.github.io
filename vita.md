@@ -91,10 +91,10 @@ predicts male-male interactions in a polymorphic poison frog. Evolution 65:
 <ul>
   <li><a href="https://orchardrecycling.ucdavis.edu/research">Whole Orchard Recycling website</a> (infographics and figure designer; 2019)
   <li><a href="https://energyinnovationact.org/how-it-works/">Energy Innovation Act Infographic</a>(lead designer; 2018). Volunteer for Citizens' Climate Lobby</li>
-<li>Crothers, L.R. Vitruvian man had a hernia. Slate Magazine (2014)</li>
+<li><a href="https://slate.com/technology/2014/02/vitruvian-mans-hernia-leonardo-da-vinci-drawing-shows-flaws-of-human-evolution.html">Vitruvian man had a hernia</a>. Article in Slate (2014)</li>
 <li>Evolution in Action. Exhibit at Michigan State University Museum (2017)</li>
-<li>Evolutionary Trees lab . Digital lab developed for Sapling Learning (used by the
-company to advertise their products)</li>
-<li>Diffusion in Cells lab . Digital lab developed for Sapling Learning (used by the
-company to advertise their products)</li>
-<li>Evolution & You. Exhibit at Texas Memorial Museum (design completed 2013)</li></ul>
+<li><a href="http://media.saplinglearning.com/pub/marketing/labs/evolutionary-trees/lab.html">Evolutionary Trees lab</a>. Digital lab developed for Sapling Learning <em>(used by the
+  company to advertise their products)</em></li>
+<li><a href="http://media.saplinglearning.com/pub/marketing/labs/diffusion-in-cells/lab.html">Diffusion in Cells lab</a>. Digital lab developed for Sapling Learning <em>(used by the
+  company to advertise their products)</em></li>
+<li>Evolution & You. Exhibit at Texas Memorial Museum (design completed 2013)</li>

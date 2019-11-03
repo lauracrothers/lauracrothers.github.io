@@ -52,3 +52,22 @@ Nov 2005 – Aug 2008 | San Francisco, CA<br>
 <li>Managed a lab of 10+ people, trained students and scientists, wrote protocols,
 and planned, performed, and analyzed research.</li>
 <li>Maintained relationships with vendors, regulatory offices, and administrators.</li></ul>
+<br><br>
+
+## RESEARCH & TEACHING<br><br>
+
+UNIVERSITY OF TEXAS | <em>DISSERTATION RESEARCH</em><br>
+Aug 2008 – April 2014 | Austin, TX & Bocas del Toro, Panama<br>
+<ul>
+<li>Developed and ran a 6-year long international research project investigating
+  physiological and ecological correlates of poison frog evolution and behavior.</li>
+  <li>Managed 7 field assistants and created collaborations across 5 universities.</li>
+  <li>Lead author of 5 articles published in peer-reviewed science journals.</li>
+<li>Obtained over $50,000 in research grants from institutions such as the
+  National Science Foundation, National Geographic, and the Smithsonian.</li></ul>
+  <br>
+  UNIVERSITY OF TEXAS | <em>TEACHING ASSISTANT</em><br>
+2009 – 2014 | Austin, TX<br>
+<ul>
+  <li>Supplemental instruction leader for introductory biology (2010).</li>
+  <li>Teaching assistant for Texas Interdisciplinary Plan introductory biology (2011).</li></ul>

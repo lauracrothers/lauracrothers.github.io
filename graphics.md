@@ -12,6 +12,6 @@ sidebar_link: true
   <canvas id="myChart" width="400" height="250"></canvas> 
  <script src="assets/js/script.js"></script>
     <p><img src="assets/images/Icons.svg"/></p>
-<center><iframe src="https://public.tableau.com/views/CarbonFeeandDividend-CitizensClimateLobbyViz/CarbonFeeandDividendEffects?:embed=y&:display_count=yes&:toolbar=no" frameborder="0"></iframe></center>
+<center><iframe src="https://public.tableau.com/views/CarbonFeeandDividend-CitizensClimateLobbyViz/CarbonFeeandDividendEffects?:retry=yes&:display_count=y&:toolbar=n&:origin=viz_share_link"></iframe></center>
 </body>
 </html>

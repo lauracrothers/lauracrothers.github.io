@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Graphics
+title: My Work
 sidebar_link: true
 ---
 

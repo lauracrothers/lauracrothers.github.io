@@ -9,6 +9,13 @@ sidebar_link: true
 Testing, testing.
 </p>
 
+## EDUCATION
+<strong>UNIVERSITY OF TEXAS</strong>
+PHD, INTEGRATIVE BIOLOGY
+May 2014 | Austin, TX
+Recruitment & Continuing Fellowships
+Dean’s Excellence Award
+
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 

@@ -67,5 +67,34 @@ Aug 2008 – April 2014 | Austin, TX & Bocas del Toro, Panama<br>
 <ul>
   <li>Supplemental instruction leader for introductory biology (2010).</li>
   <li>Teaching assistant for Texas Interdisciplinary Plan introductory biology (2011).</li></ul>
-  <BR>
-  ## EDUCATION<br><br>
+  <br>
+ ## PUBLICATIONS & OTHER OUTPUTS<br>
+<em>Peer-reviewed</em>:
+<ul>
+<li>Crothers, L.R., R. Saporito, J. Yeager, et al. 2016. Warning signal properties
+covary with toxicity but not testosterone or aggregate carotenoids in a poison
+frog. Behavioral Ecology. 30:601-621.</li>
+<li>Crothers, L.R., and M.E. Cummings. 2015. A multifunctional warning signal
+behaves as an agonistic status signal in a poison frog. Evolutionary Ecology.
+26:560-568.</li>
+<li>Cummings, M.E. §, and L.R. Crothers§. 2013. Interacting selection diversifies
+warning signals in a polytypic frog: an examination with the strawberry poison
+frog. Evolutionary Ecology. 27:693–710. (§ Equal contribution)</li>
+<li>Crothers, L.R., and M.E. Cummings. 2013. Warning signal brightness variation:
+Sexual selection may work under the radar of natural selection in populations of
+a polytypic poison frog. American Naturalist 181:E116-E124.</li>
+<li>Crothers, L., E. Gering, and M. Cummings. 2011. Aposematic signal variation
+predicts male-male interactions in a polymorphic poison frog. Evolution 65:
+599-605.</li></ul>
+<em>Public Outreach</em>:
+<ul>
+  <li>Whole Orchard Recycling website (infographics and figure designer; 2019). https://orchardrecycling.ucdavis.edu/research
+<li>Energy Innovation Act Infographic (lead designer; 2018). Volunteer for Citizens' Climate Lobby. https://energyinnovationact.org/how-it-works/</li>
+<li>Crothers, L.R. Vitruvian man had a hernia. Slate Magazine (2014)</li>
+<li>Evolution in Action. Exhibit at Michigan State University Museum (2017)</li>
+<li>Evolutionary Trees lab . Digital lab developed for Sapling Learning (used by the
+company to advertise their products)</li>
+<li>Diffusion in Cells lab . Digital lab developed for Sapling Learning (used by the
+company to advertise their products)</li>
+<li>Evolution & You. Exhibit at Texas Memorial Museum (design completed 2013)</li>
+</ul>

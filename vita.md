@@ -16,7 +16,7 @@ BA, PSYCHOLOGY<br>
 Aug 2005 | Santa Cruz, CA<br>
 <em>Biology Highest Honors; Psychology & Stevenson College Honors; Merit Scholarship (2001-2005)</em>
 <br><br>
-## EXPERIENCE<br><br>
+## PROFESSIONAL EXPERIENCE<br><br>
 UNIVERSITY OF CALIFORNIA, DAVIS<br>
 <em>SENIOR WRITER & PROJECT MANAGER</em><br>
 Jan 2016 – current | Davis, CA<br>

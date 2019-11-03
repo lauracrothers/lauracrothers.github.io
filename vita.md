@@ -68,7 +68,8 @@ Aug 2008 – April 2014 | Austin, TX & Bocas del Toro, Panama<br>
   <li>Supplemental instruction leader for introductory biology (2010).</li>
   <li>Teaching assistant for Texas Interdisciplinary Plan introductory biology (2011).</li></ul>
   <br>
- ## PUBLICATIONS & OTHER OUTPUTS<br>
+## PUBLICATIONS & OTHER OUTPUTS<br>
+
 <em>Peer-reviewed</em>:
 <ul>
 <li>Crothers, L.R., R. Saporito, J. Yeager, et al. 2016. Warning signal properties
@@ -88,13 +89,12 @@ predicts male-male interactions in a polymorphic poison frog. Evolution 65:
 599-605.</li></ul>
 <em>Public Outreach</em>:
 <ul>
-  <li>Whole Orchard Recycling website (infographics and figure designer; 2019). https://orchardrecycling.ucdavis.edu/research
-<li>Energy Innovation Act Infographic (lead designer; 2018). Volunteer for Citizens' Climate Lobby. https://energyinnovationact.org/how-it-works/</li>
+  <li><a href="https://orchardrecycling.ucdavis.edu/research">Whole Orchard Recycling website</a> (infographics and figure designer; 2019)
+  <li><a href="https://energyinnovationact.org/how-it-works/">Energy Innovation Act Infographic</a>(lead designer; 2018). Volunteer for Citizens' Climate Lobby</li>
 <li>Crothers, L.R. Vitruvian man had a hernia. Slate Magazine (2014)</li>
 <li>Evolution in Action. Exhibit at Michigan State University Museum (2017)</li>
 <li>Evolutionary Trees lab . Digital lab developed for Sapling Learning (used by the
 company to advertise their products)</li>
 <li>Diffusion in Cells lab . Digital lab developed for Sapling Learning (used by the
 company to advertise their products)</li>
-<li>Evolution & You. Exhibit at Texas Memorial Museum (design completed 2013)</li>
-</ul>
+<li>Evolution & You. Exhibit at Texas Memorial Museum (design completed 2013)</li></ul>

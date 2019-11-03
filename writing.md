@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Writing
-sidebar_link: true
 ---
 
 <html>

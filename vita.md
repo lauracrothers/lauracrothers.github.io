@@ -45,7 +45,7 @@ Aug 2011 – Sept 2013 | Austin, TX<br>
 <li>Represented museum at outreach events. Liaised with museums, public,
   educators, and researchers to develop and evaluate exhibit and obtain funds.</li></ul>
     <br>
-UNIVERSITY OF CALIFORNIA, SAN FRANCISCO<br>
+UNIVERSITY OF CALIFORNIA SAN FRANCISCO<br>
   <em>LAB MANAGER & RESEARCH ASSOCIATE</em><br>
 Nov 2005 – Aug 2008 | San Francisco, CA<br>
   <ul>

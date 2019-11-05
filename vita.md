@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-<a href="https://lauracrothers.github.io/assets/LauraCrothers_CV.pdf">Click here for PDF version of my CV.
+<a href="https://lauracrothers.github.io/assets/LauraCrothers_CV.pdf">View or download as a PDF.
 </a></p>
 
 ## EDUCATION<br>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vita
-sidebar_link: true
+sidebar_link: false
 ---
 
 <p class="message">

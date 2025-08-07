@@ -4,7 +4,8 @@ title: My Work
 sidebar_link: true
 ---
 
-## WRITING
+## Selected Writing and Editorial Work
+
 
 ## INTERACTIVE GRAPHICS
 

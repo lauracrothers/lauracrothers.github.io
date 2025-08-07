@@ -4,9 +4,10 @@ title: My Work
 sidebar_link: true
 ---
 
-## Selected Writing and Editorial Work
+## Selected writing and editorial work
+<strong>U.S. National Science Foundation (NSF) website</strong></li>: I manage the content and design of <a href="https://www.nsf.gov">NSF.gov</a>, the flagship website of the agency, serving 40+ million visitors annually. Some highlights of my writing on the site include:
 <ul>
-  <li></li>
+  <li><em><a href="https://www.nsf.gov/impacts/crispr">CRISPR: A Biotech Breakthrough</a>a></em>: An entry in a <a href="https://www.nsf.gov/impacts">new series</a> I created on the website, focusing on the ways that early, curiousity-driven research led to major innovations that shape people's lives for the better. The articles in this series have been highlighted in op-eds and by prominent social media users.
 </ul>
 
 ## INTERACTIVE GRAPHICS

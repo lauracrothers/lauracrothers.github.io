@@ -5,12 +5,15 @@ sidebar_link: true
 ---
 
 ## Selected writing and editorial work
-<strong>U.S. National Science Foundation (NSF) website</strong>:<br>I manage the content and design of <a href="https://www.nsf.gov">NSF.gov</a>, the flagship website of the premiere federal funder of scientific research, serving 40+ million visitors annually. Some highlights of my writing on the site include entries in a <a href="https://www.nsf.gov/impacts">new series</a> I created on the website, focusing on the ways that early, curiousity-driven research led to major innovations that shape people's lives for the better. The articles in this series have been highlighted in op-eds and by prominent social media users:
+<strong>Strategic framing and thought leadership</strong>
 <ul>
-  <li><em><a href="https://www.nsf.gov/impacts/crispr">CRISPR: A Biotech Breakthrough</a></em></li>
-  <li><em><a href="https://www.nsf.gov/impacts/protein-data-bank">Protein Data Bank: Key to the Molecules of Life</a></em>
-  </li>
-</ul>
+  <li><em><a href="https://www.nsf.gov/impacts/crispr">CRISPR: A Biotech Breakthrough</a></em>: U.S. National Science Foundation impact piece linking foundational research to real-world biotech transformation.</li>
+  <li><em><a href="https://www.nsf.gov/impacts/protein-data-bank">Protein Data Bank: Key to the Molecules of Life</a></em>: NSF impact piece highlighting the value of shared scientific infrastructure
+  </li></ul>
+
+<strong>Science translation and impact storytelling</strong>  
+<ul><li><em><a href="https://drive.google.com/file/d/1-jrRh8u2Rklz5H5beCrXZCnnJSUZfQ00/view?usp=sharing">Why the United States needs a more diverse scientific workforce</a></strong>: A public-facing essay explaining how underrepresentation in science harms innovation and equity.</li></ul>
+
 
 
 ## INTERACTIVE GRAPHICS

@@ -12,7 +12,7 @@ sidebar_link: true
   </li></ul>
 
 <strong>Science translation and impact storytelling</strong>  
-<ul><li><em><a href="https://drive.google.com/file/d/1-jrRh8u2Rklz5H5beCrXZCnnJSUZfQ00/view?usp=sharing">Why the United States needs a more diverse scientific workforce</a></strong>: A public-facing essay explaining how underrepresentation in science harms innovation and equity.</li></ul>
+<ul><li><em><a href="https://drive.google.com/file/d/1-jrRh8u2Rklz5H5beCrXZCnnJSUZfQ00/view?usp=sharing">Why the United States needs a more diverse scientific workforce</a></em>: A public-facing essay explaining how underrepresentation in science harms innovation and equity.</li></ul><br>
 
 
 

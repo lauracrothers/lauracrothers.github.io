@@ -5,10 +5,13 @@ sidebar_link: true
 ---
 
 ## Selected writing and editorial work
-<strong>U.S. National Science Foundation (NSF) website</strong></li>: I manage the content and design of <a href="https://www.nsf.gov">NSF.gov</a>, the flagship website of the agency, serving 40+ million visitors annually. Some highlights of my writing on the site include:
+<strong>U.S. National Science Foundation (NSF) website</strong>:<br>I manage the content and design of <a href="https://www.nsf.gov">NSF.gov</a>, the flagship website of the premiere federal funder of scientific research, serving 40+ million visitors annually. Some highlights of my writing on the site include entries in a <a href="https://www.nsf.gov/impacts">new series</a> I created on the website, focusing on the ways that early, curiousity-driven research led to major innovations that shape people's lives for the better. The articles in this series have been highlighted in op-eds and by prominent social media users:
 <ul>
-  <li><em><a href="https://www.nsf.gov/impacts/crispr">CRISPR: A Biotech Breakthrough</a></em>: An entry in a <a href="https://www.nsf.gov/impacts">new series</a> I created on the website, focusing on the ways that early, curiousity-driven research led to major innovations that shape people's lives for the better. The articles in this series have been highlighted in op-eds and by prominent social media users.
+  <li><em><a href="https://www.nsf.gov/impacts/crispr">CRISPR: A Biotech Breakthrough</a></em></li>
+  <li><em><a href="https://www.nsf.gov/impacts/protein-data-bank">Protein Data Bank: Key to the Molecules of Life</a></em>
+  </li>
 </ul>
+
 
 ## INTERACTIVE GRAPHICS
 

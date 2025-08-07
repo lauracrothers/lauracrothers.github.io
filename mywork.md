@@ -6,13 +6,15 @@ sidebar_link: true
 
 ## Selected writing and editorial work
 <strong>Strategic framing and thought leadership</strong>
+<ul><li><em><a href="https://drive.google.com/file/d/1-jrRh8u2Rklz5H5beCrXZCnnJSUZfQ00/view?usp=sharing">Why the United States needs a more diverse scientific workforce</a></em>: A public-facing essay explaining how underrepresentation in science harms innovation and equity.</li></ul>
+
+
+<strong>Science translation and impact storytelling</strong>  
 <ul>
   <li><em><a href="https://www.nsf.gov/impacts/crispr">CRISPR: A Biotech Breakthrough</a></em>: U.S. National Science Foundation impact piece linking foundational research to real-world biotech transformation.</li>
   <li><em><a href="https://www.nsf.gov/impacts/protein-data-bank">Protein Data Bank: Key to the Molecules of Life</a></em>: NSF impact piece highlighting the value of shared scientific infrastructure
   </li></ul>
-
-<strong>Science translation and impact storytelling</strong>  
-<ul><li><em><a href="https://drive.google.com/file/d/1-jrRh8u2Rklz5H5beCrXZCnnJSUZfQ00/view?usp=sharing">Why the United States needs a more diverse scientific workforce</a></em>: A public-facing essay explaining how underrepresentation in science harms innovation and equity.</li></ul><br>
+<br>
 
 
 

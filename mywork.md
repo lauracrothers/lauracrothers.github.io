@@ -6,18 +6,25 @@ sidebar_link: true
 
 ## Selected writing and editorial work
 <strong>Strategic framing and thought leadership</strong>
-<ul><li><em><a href="https://drive.google.com/file/d/1-jrRh8u2Rklz5H5beCrXZCnnJSUZfQ00/view?usp=sharing">Why the United States needs a more diverse scientific workforce</a></em>: A public-facing essay explaining how underrepresentation in science harms innovation and equity.</li></ul>
+<ul><li><em><a href="https://drive.google.com/file/d/1-jrRh8u2Rklz5H5beCrXZCnnJSUZfQ00/view?usp=sharing">Why the United States needs a more diverse scientific workforce</a></em>: Thought leadership article written to highlight the strategic importance of diversity in science, technology, engineering and mathematics (STEM).</li></ul>
 
 
 <strong>Science translation and impact storytelling</strong>  
 <ul>
   <li><em><a href="https://www.nsf.gov/impacts/crispr">CRISPR: A Biotech Breakthrough</a></em>: U.S. National Science Foundation impact piece linking foundational research to real-world biotech transformation.</li>
-  <li><em><a href="https://www.nsf.gov/impacts/protein-data-bank">Protein Data Bank: Key to the Molecules of Life</a></em>: NSF impact piece highlighting the value of shared scientific infrastructure
+  <li><em><a href="https://www.nsf.gov/impacts/protein-data-bank">Protein Data Bank: Key to the Molecules of Life</a></em>: NSF impact piece highlighting the value of shared scientific infrastructure.
   </li></ul>
+
+<strong>Voice-driven science journalism</strong>
+<ul>
+  <li><em><a href="https://slate.com/technology/2014/02/vitruvian-mans-hernia-leonardo-da-vinci-drawing-shows-flaws-of-human-evolution.html">Vitruvian man had a hernia</a></em>: A pop science article unpacking human evolution through the lens of Renaissance art.
+  </li></ul>
+  
+<strong>Applied research and sustainability storytelling</strong>
+<ul>
+  <li><em><a href="https://sarep.ucdavis.edu/news/growing-elderberries-hedgerows-adds-farm-income-benefits-environment">Growing elderberries in hedgerows adds to farm income, benefits environment</a></em>: Article on how native perennial planting enhances both income and ecosystems.  </li></ul>
+
 <br>
-
-
-
 ## INTERACTIVE GRAPHICS
 
 <strong> Visualizations for Citizens' Climate Lobby:</strong><br>

@@ -3,9 +3,12 @@ layout: page
 title: My Work
 sidebar_link: true
 ---
+As a science communicator and editorial strategist, I specialize in translating complex scientific and policy issues into compelling, accessible narratives. My work spans federal science agencies, academic research institutions, educational technology companies, and museums.
+
+## Websites
+
 
 ## Selected writing and editorial work
-As a science communicator and editorial strategist, I specialize in translating complex scientific and policy issues into compelling, accessible narratives. My work spans federal science agencies, academic research institutions, educational technology companies, and museums.
 
 Below are selected writing samples that demonstrate my editorial range, subject-matter fluency, and ability to shape mission-aligned content for diverse audiences. Additional samples are available upon request.<br><br>
 

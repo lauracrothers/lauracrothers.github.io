@@ -29,7 +29,7 @@ This page features highlights of my work. Additional samples are available upon 
 </ul>
 
 ## Interactives
-<br>
-
-<ul>
+<ul><li><em><a href="http://media.saplinglearning.com/pub/marketing/labs/evolutionary-trees/lab.html">Evolutionary Trees lab</a></em>: Digital lab developed for Sapling Learning (used by the company to advertise their products).</li>
+<li><em><a href="http://media.saplinglearning.com/pub/marketing/labs/diffusion-in-cells/lab.html">Diffusion in Cells lab</a></em>: Digital lab developed for Sapling Learning<em> (used by the company to advertise their products).</li>
+</ul>
 

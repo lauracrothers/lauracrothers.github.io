@@ -29,7 +29,13 @@ This page features highlights of my work. Additional samples are available upon 
 </ul>
 
 ## Interactives
-<ul><li><em><a href="http://media.saplinglearning.com/pub/marketing/labs/evolutionary-trees/lab.html">Evolutionary Trees lab</a></em>: Digital lab developed for Sapling Learning (used by the company to advertise their products).</li>
-<li><em><a href="http://media.saplinglearning.com/pub/marketing/labs/diffusion-in-cells/lab.html">Diffusion in Cells lab</a></em>: Digital lab developed for Sapling Learning<em> (used by the company to advertise their products).</li>
+<ul>
+<li><em><a href="https://public.tableau.com/views/CarbonFeeandDividend-CitizensClimateLobbyViz/CarbonFeeandDividendEffects?:language=en-US&:sid=&:redirect=auth&:toolbar=n&:display_count=n&:origin=viz_share_link">Carbon fee & dividend's effects on the U.S.</a></em>: A visualization for Citizens' Climate Lobby.</li>
+<li><em><a href="http://media.saplinglearning.com/pub/marketing/labs/evolutionary-trees/lab.html">Evolutionary Trees lab</a></em>: Digital lab developed for Sapling Learning (used by the company to advertise their products).</li>
+<li><em><a href="http://media.saplinglearning.com/pub/marketing/labs/diffusion-in-cells/lab.html">Diffusion in Cells lab</a></em>: Digital lab developed for Sapling Learning (used by the company to advertise their products).</li>
 </ul>
+
+## Museum exhibits
+<ul>
+<li><em>Evolution in Action:</em> Exhibit at the Michigan State University Museum (2017).</li></ul>
 

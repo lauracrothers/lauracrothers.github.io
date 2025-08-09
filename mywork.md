@@ -24,7 +24,7 @@ This page features highlights of my work. Additional samples are available upon 
   </li>
 
   <li><em><a href="https://sarep.ucdavis.edu/news/growing-elderberries-hedgerows-adds-farm-income-benefits-environment">Growing elderberries in hedgerows adds to farm income, benefits environment</a></em>: Article on how native perennial planting enhances both income and ecosystems.  </li>
-<li><em><a href="https://drive.google.com/file/d/1-jrRh8u2Rklz5H5beCrXZCnnJSUZfQ00/view?usp=sharing">Why the United States needs a more diverse scientific workforce</a></em>: Thought leadership article written to highlight the strategic importance of diversity in science, technology, engineering and mathematics (STEM).</li>
+<li><em><a href="https://lauracrothers.github.io/assets/DiversityInSTEM_Crothers.pdf">Why the United States needs a more diverse scientific workforce</a></em>: Thought leadership article written to highlight the strategic importance of diversity in science, technology, engineering and mathematics (STEM).</li>
 <li><em><a href="https://sarep.ucdavis.edu/news/new-decade-brings-new-uc-sarep">Newsletter: A new decade brings a new UC SAREP</a></em>: Branded editorial campaign highlighting organizational vision during COVID-19 and structural transition.</li>
 </ul>
 

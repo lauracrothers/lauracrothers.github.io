@@ -4,33 +4,6 @@ title: Vita
 sidebar_link: false
 ---
 
-<style>
-  .role {
-    display: inline-block;
-    background-color: #eef2f6;
-    color: #333;
-    font-size: 0.85em;
-    font-weight: 500;
-    padding: 2px 6px;
-    border-radius: 4px;
-    margin-bottom: 4px;
-  }
-  section {
-    margin-bottom: 2em;
-  }
-  h2 {
-    margin-top: 1.5em;
-    font-size: 1.4em;
-  }
-  h3 {
-    margin-bottom: 0.2em;
-    font-size: 1.1em;
-  }
-  article {
-    margin-bottom: 1.2em;
-  }
-</style>
-
 <section>
   <h2>Websites</h2>
 

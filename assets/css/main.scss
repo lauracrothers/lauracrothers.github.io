@@ -82,3 +82,101 @@ ul, ol, dl {
   padding-left: 1.25rem;
 }
 li { margin-bottom: 0.4rem; }
+
+/* ================================
+   Layout & visual enhancements
+   ================================ */
+
+/* Wider content on large screens */
+.container {
+  max-width: 70rem; /* was ~48rem */
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+/* Navigation */
+.nav {
+  background: transparent;
+  padding: 1rem 0;
+}
+
+.nav a {
+  font-weight: 500;
+  color: $heading-color;
+  padding: 0.4rem 0.75rem;
+  border-radius: 4px;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.nav a:hover,
+.nav a:focus {
+  background: rgba($link-color, 0.1);
+  color: $link-hover-color;
+}
+
+/* Buttons */
+button,
+.button,
+a.button {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  background: $link-color;
+  color: #fff !important;
+  font-weight: 500;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background 0.2s ease;
+
+  &:hover,
+  &:focus {
+    background: $link-hover-color;
+  }
+}
+
+/* Code blocks */
+pre, code {
+  font-family: 'Fira Code', monospace;
+}
+
+pre {
+  background: #f5f5f5;
+  border-radius: 6px;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+code {
+  background: #f5f5f5;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+/* Footer */
+.site-footer {
+  font-size: 0.9rem;
+  color: #666;
+  padding: 2rem 0;
+  border-top: 1px solid #eee;
+}
+
+.site-footer a {
+  color: $link-color;
+  text-decoration: none;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
+}
+
+/* Section spacing */
+section, article {
+  margin-bottom: 3rem;
+}

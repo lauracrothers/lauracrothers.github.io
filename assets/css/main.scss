@@ -1,14 +1,9 @@
 ---
-# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
-# only main files contain this front matter, not partials.
----
-
----
 # Jekyll requires front matter for SCSS files
 ---
 
 /* ================================
-   Variable overrides (before import)
+   Variable overrides (must be BEFORE import)
    ================================ */
 $font-family-base: 'Source Serif Pro', Georgia, serif;
 $font-family-headings: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -21,8 +16,11 @@ $accent-color: #ee9b00; // warm golden orange
 $border-color: #ddd;
 $background-color: #fafafa;
 
+/* Import Hydeout theme now so it picks up your variables */
+@import "hydeout";
+
 /* ================================
-   Custom styles (after variable overrides)
+   Custom styles (AFTER import so they win)
    ================================ */
 
 /* Headings with improved rhythm & responsive sizing */
@@ -34,6 +32,7 @@ h1, h2, h3, h4, h5, h6, .site-title {
   color: $heading-color;
   text-rendering: optimizeLegibility;
   letter-spacing: 0.01em;
+  font-family: $font-family-headings;
 }
 
 h1 { font-size: clamp(2rem, 1.2rem + 2vw, 3rem); }
@@ -41,7 +40,8 @@ h2 { font-size: clamp(1.5rem, 1rem + 1.5vw, 2.25rem); }
 h3 { font-size: clamp(1.25rem, 0.9rem + 1vw, 1.75rem); }
 h4, h5, h6 { font-size: 1rem; }
 
-/* Body text legibility */
+/* Body text */
+body { font-family: $font-family-base; }
 p {
   margin-top: 0;
   margin-bottom: 1rem;
@@ -49,7 +49,7 @@ p {
   letter-spacing: 0.01em;
 }
 
-/* Modern link appearance */
+/* Links */
 a {
   color: $link-color;
   text-decoration: none;
@@ -63,7 +63,7 @@ a {
   }
 }
 
-/* Updated blockquote style */
+/* Blockquotes */
 blockquote {
   background: $background-color;
   padding: 1rem 1.25rem;
@@ -72,23 +72,13 @@ blockquote {
   border-left: 0.25rem solid $border-color;
   border-radius: 4px;
 
-  p:last-child {
-    margin-bottom: 0;
-  }
+  p:last-child { margin-bottom: 0; }
 }
 
-/* List readability */
+/* Lists */
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
   padding-left: 1.25rem;
 }
-
-li {
-  margin-bottom: 0.4rem;
-}
-
-/* ================================
-   Import Hydeout theme
-   ================================ */
-@import "hydeout";
+li { margin-bottom: 0.4rem; }

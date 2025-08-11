@@ -25,3 +25,12 @@ $sidebar-bg-color: #0c0c0c;
 body {
   font-size: 0.9rem; /* default is usually 1rem */
 }
+
+/* Raise sidebar content */
+.sidebar {
+  padding-top: 1rem; /* try smaller values, default might be ~3rem */
+}
+
+.sidebar-sticky {
+  top: 1rem; /* reduces the sticky offset from top of viewport */
+}

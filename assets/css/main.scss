@@ -26,30 +26,3 @@ $sidebar-bg-color: #0c0c0c;
 body {
   font-size: 0.9rem; /* default is usually 1rem */
 }
-
-@media (min-width: 48em) {
-  /* Reduce wrapper padding */
-  .sidebar,
-  #sidebar,
-  .content {
-    padding-top: 0.5rem !important;
-  }
-
-  .sidebar-sticky {
-    top: 0.5rem !important;
-  }
-
-  /* Remove top margin on first child in content */
-  .content > :first-child {
-    margin-top: 0 !important;
-  }
-
-  /* Tighten the top of the sidebar title and intro text */
-  .sidebar .site-title,
-  #sidebar .site-title,
-  .sidebar .sidebar-about,
-  #sidebar .sidebar-about {
-    margin-top: 0 !important;
-    padding-top: 0 !important;
-  }
-}

@@ -57,3 +57,17 @@ body {
     margin-top: 0 !important;
   }
 }
+
+/* DEBUG: make padding super obvious */
+.sidebar,
+#sidebar,
+.content {
+  padding-top: 5rem !important;
+  background-color: rgba(255,0,0,0.1) !important;
+}
+
+.sidebar-sticky {
+  top: 5rem !important;
+  background-color: rgba(0,255,0,0.1) !important;
+}
+

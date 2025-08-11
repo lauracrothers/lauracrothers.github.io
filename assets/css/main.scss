@@ -21,3 +21,8 @@ $sidebar-bg-color: #0c0c0c;
    Custom styles (AFTER import so they win)
    ================================ */
 
+/* Body text */
+body {
+  font-family: $font-family-base;
+  font-size: 0.9rem; /* default is usually 1rem */
+}

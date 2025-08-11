@@ -27,16 +27,33 @@ body {
   font-size: 0.9rem; /* default is usually 1rem */
 }
 
-/* Fix top padding */
-
-@media (min-width: 49rem) { /* Hydeout's large breakpoint */
+/* Use Hydeout's actual breakpoint */
+@media (min-width: 48em) {
+  /* Raise both columns */
   .sidebar,
   #sidebar,
   .content {
     padding-top: 0.5rem !important; /* default ~2rem */
   }
 
+  /* Sticky offset */
   .sidebar-sticky {
-    top: 0.5rem !important; /* default ~2rem */
+    top: 0.5rem !important;
+  }
+
+  /* Remove extra top gaps in the sidebar */
+  .sidebar .site-title,
+  #sidebar .site-title,
+  .sidebar .sidebar-about,
+  #sidebar .sidebar-about,
+  .sidebar .sidebar-nav,
+  #sidebar .sidebar-nav {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  /* Prevent large first-child margins from pushing content down */
+  .content > :first-child {
+    margin-top: 0 !important;
   }
 }

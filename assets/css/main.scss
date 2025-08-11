@@ -27,34 +27,7 @@ body {
   font-size: 0.9rem; /* default is usually 1rem */
 }
 
-/* Nudge sidebar content up — handle both id and class, and out‑specify theme */
-.sidebar,
-#sidebar {
-  padding-top: 0.5rem !important; /* was ~2rem */
-}
-
-/* If sticky wrapper is used, reduce its viewport offset */
-.sidebar-sticky {
-  top: 0.5rem !important;
-}
-
-/* Kill extra top gaps from inner blocks that can push it down */
-.sidebar .site-title,
-#sidebar .site-title,
-.sidebar .sidebar-about,
-#sidebar .sidebar-about,
-.sidebar .sidebar-nav,
-#sidebar .sidebar-nav {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-/* Only apply the tighter spacing on larger screens where the sidebar is visible */
-@media (min-width: 49rem) { /* Hydeout's large breakpoint */
-  .sidebar,
-  #sidebar { padding-top: 0.5rem !important; }
-  .sidebar-sticky { top: 0.5rem !important; }
-}
+/* Fix top padding */
 
 @media (min-width: 49rem) { /* Hydeout's large breakpoint */
   .sidebar,
@@ -66,9 +39,4 @@ body {
   .sidebar-sticky {
     top: 0.5rem !important; /* default ~2rem */
   }
-}
-
-.content {
-  outline: 2px dashed blue !important;
-  background-color: rgba(0, 0, 255, 0.05) !important;
 }

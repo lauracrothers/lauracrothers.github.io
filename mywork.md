@@ -7,14 +7,14 @@ As a science communicator and editorial strategist, I specialize in translating 
 
 This page features highlights of my work. Additional samples are available upon request.
 
-## Websites
+### Websites
 <ul>
     <li><em><a href="https://www.nsf.gov/">NSF.gov</a></em>: I oversee the public web program at the National Science Foundation, the nation's premier scientific funding agency — leading content and design for a website that serves 40M+ visitors each year. Some highlights include:
      <ul><li><a href="https://www.nsf.gov/focus-areas">Focus Areas:</a> Explore the agency's funding priorities.</li>
       <li><a href="https://www.nsf.gov/impacts">NSF Impacts:</a> Learn how NSF's investments in basic research led to tangible benefits for people's lives.</li></ul>
   </li></ul>
 
-## Writing and editorial work
+### Writing and editorial work
 
 <ul>
     <li><em><a href="https://slate.com/technology/2014/02/vitruvian-mans-hernia-leonardo-da-vinci-drawing-shows-flaws-of-human-evolution.html">Vitruvian man had a hernia</a></em>: A popular science article unpacking human evolution through the lens of Renaissance art.
@@ -28,14 +28,14 @@ This page features highlights of my work. Additional samples are available upon 
 <li><em><a href="https://sarep.ucdavis.edu/news/new-decade-brings-new-uc-sarep">Newsletter: A new decade brings a new UC SAREP</a></em>: Branded editorial campaign highlighting organizational vision during COVID-19 and structural transition.</li>
 </ul>
 
-## Interactives
+### Interactives
 <ul>
 <li><em><a href="https://public.tableau.com/views/CarbonFeeandDividend-CitizensClimateLobbyViz/CarbonFeeandDividendEffects?:language=en-US&:sid=&:redirect=auth&:toolbar=n&:display_count=n&:origin=viz_share_link">Carbon fee & dividend's effects on the U.S.</a></em>: A visualization for Citizens' Climate Lobby.</li>
 <li><em><a href="http://media.saplinglearning.com/pub/marketing/labs/evolutionary-trees/lab.html">Evolutionary Trees lab</a></em>: Digital lab developed for Sapling Learning (used by the company to advertise their products).</li>
 <li><em><a href="http://media.saplinglearning.com/pub/marketing/labs/diffusion-in-cells/lab.html">Diffusion in Cells lab</a></em>: Digital lab developed for Sapling Learning (used by the company to advertise their products).</li>
 </ul>
 
-## Museum exhibits
+### Museum exhibits
 <ul>
 <li><em>Evolution in Action:</em> Exhibit at the Michigan State University Museum (2017).</li></ul>
 

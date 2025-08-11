@@ -26,11 +26,18 @@ body {
   font-size: 0.9rem; /* default is usually 1rem */
 }
 
-/* Raise sidebar content */
-.sidebar {
-  padding-top: 1rem; /* try smaller values, default might be ~3rem */
+/* Tighten the sidebar’s top spacing */
+#sidebar {
+  padding-top: 0.75rem; /* was $section-spacing (2rem) */
 }
 
+/* If you use the sticky variant, reduce its offset too */
 .sidebar-sticky {
-  top: 1rem; /* reduces the sticky offset from top of viewport */
+  top: 0.75rem; /* bring the sticky block closer to the top */
+}
+
+/* Optional: slightly tighten spacing under the title in the sidebar */
+#sidebar .site-title {
+  margin-top: 0;              /* already 0 in theme, keep it tight */
+  margin-bottom: 0.5rem;      /* was $heading-spacing (0.5rem) — tweak as needed */
 }

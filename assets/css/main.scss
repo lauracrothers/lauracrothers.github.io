@@ -25,4 +25,6 @@ $sidebar-bg-color: #0c0c0c;
 /* Body text */
 body {
   font-size: 0.9rem; /* default is usually 1rem */
+     align-items: flex-start !important; 
+/* Override flex alignment to bring sidebar up */
 }

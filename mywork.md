@@ -17,7 +17,8 @@ This page features highlights of my work. Additional samples are available upon 
 ### Writing and editorial work
 
 <ul>
-    <li><em><a href="https://slate.com/technology/2014/02/vitruvian-mans-hernia-leonardo-da-vinci-drawing-shows-flaws-of-human-evolution.html">Vitruvian man had a hernia</a></em>: A popular science article unpacking human evolution through the lens of Renaissance art.
+<li><em><a href="https://lauracrothers.github.io/assets/CellForge-article">CellForge: Automating virtual cell models with multi-agent AI</a></em>: A plain-language news piece that translates a technical preprint into a clear, biologist-friendly summary of methods, results and significance.</li>
+<li><em><a href="https://slate.com/technology/2014/02/vitruvian-mans-hernia-leonardo-da-vinci-drawing-shows-flaws-of-human-evolution.html">Vitruvian man had a hernia</a></em>: A popular science article unpacking human evolution through the lens of Renaissance art.
   </li>
   <li><em><a href="https://www.nsf.gov/impacts/crispr">CRISPR: A biotech breakthrough</a></em>: U.S. National Science Foundation impact piece linking foundational research to real-world biotech transformation.</li>
   <li><em><a href="https://www.nsf.gov/impacts/protein-data-bank">Protein Data Bank: Key to the molecules of life</a></em>: NSF impact piece highlighting the value of shared scientific infrastructure.

@@ -19,9 +19,8 @@ This page features highlights of my work. Additional samples are available upon 
 ### Institutional storytelling
 <ul>
     <li><em><a href="https://www.nsf.gov/">NSF.gov</a></em>: I oversee the public web program at the National Science Foundation, the nation's premier scientific funding agency — leading content and design for a website that serves 40M+ visitors each year. Some highlights include:
-     <ul><li><em><a href="https://www.nsf.gov/focus-areas">Focus areas</a></em>: Explore the agency's funding priorities.</li>
-      <li><em><a href="https://www.nsf.gov/impacts">NSF impacts</a></em>: Learn how NSF's investments in basic research led to tangible benefits for people's lives.</li>
-  <li><em><a href="https://www.nsf.gov/impacts/crispr">CRISPR: A biotech breakthrough</a></em>: Impact piece linking NSF's investments to real-world biotech transformation.</li></ul>
+     <ul><li><em><a href="https://www.nsf.gov/focus-areas">Focus areas</a></em>: Explore the agency's funding priorities (e.g., <a href="https://www.nsf.gov/focus-areas/ai">artificial intelligence</a>).</li>
+      <li><em><a href="https://www.nsf.gov/impacts">NSF impacts</a></em>: Learn how NSF's investments in basic research led to tangible benefits for people's lives (e.g., <a href="https://www.nsf.gov/impacts/crispr">CRISPR</a>).</li></ul>
   </li></ul>
 
 

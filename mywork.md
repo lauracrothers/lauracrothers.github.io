@@ -3,8 +3,6 @@ layout: page
 title: My Work
 sidebar_link: true
 ---
-As a science communicator and editorial strategist, I specialize in translating complex scientific and policy issues into compelling, accessible narratives. My work spans federal science agencies, academic research institutions, educational technology companies, and museums.
-
 This page features highlights of my work. Additional samples are available upon request.
 
 ### Data-driven narratives

@@ -3,7 +3,7 @@ layout: page
 title: My Work
 sidebar_link: true
 ---
-This page features highlights of my work. Additional samples are available upon request.
+This page features highlights of my work. Additional samples are available <a href="https://www.linkedin.com/in/laurarosecrothers">upon request</a>.
 
 ### Data-driven narratives
 <ul>
